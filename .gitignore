@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+data/
+data.zip
+models/
+predictions/
+logs/
+*.h5
+*.keras
+*.pkl
+model4.png
+test_image.png
+preprocessed_data.csv
